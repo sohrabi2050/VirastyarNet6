@@ -1,0 +1,12 @@
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT\bin\Debug\net6.0\SCICT.deps.json
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT\bin\Debug\net6.0\SCICT.dll
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT\bin\Debug\net6.0\SCICT.pdb
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT\obj\Debug\net6.0\SCICT.csproj.AssemblyReference.cache
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT\obj\Debug\net6.0\SCICT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT\obj\Debug\net6.0\SCICT.AssemblyInfoInputs.cache
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT\obj\Debug\net6.0\SCICT.AssemblyInfo.cs
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT\obj\Debug\net6.0\SCICT.csproj.CoreCompileInputs.cache
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT\obj\Debug\net6.0\SCICT.dll
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT\obj\Debug\net6.0\refint\SCICT.dll
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT\obj\Debug\net6.0\SCICT.pdb
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT\obj\Debug\net6.0\ref\SCICT.dll

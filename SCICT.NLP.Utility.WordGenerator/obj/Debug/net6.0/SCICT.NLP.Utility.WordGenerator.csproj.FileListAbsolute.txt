@@ -1,0 +1,15 @@
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.WordGenerator\bin\Debug\net6.0\SCICT.NLP.Utility.WordGenerator.deps.json
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.WordGenerator\bin\Debug\net6.0\SCICT.NLP.Utility.WordGenerator.dll
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.WordGenerator\bin\Debug\net6.0\SCICT.NLP.Utility.WordGenerator.pdb
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.WordGenerator\bin\Debug\net6.0\SCICT.dll
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.WordGenerator\bin\Debug\net6.0\SCICT.pdb
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.WordGenerator\obj\Debug\net6.0\SCICT.NLP.Utility.WordGenerator.csproj.AssemblyReference.cache
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.WordGenerator\obj\Debug\net6.0\SCICT.NLP.Utility.WordGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.WordGenerator\obj\Debug\net6.0\SCICT.NLP.Utility.WordGenerator.AssemblyInfoInputs.cache
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.WordGenerator\obj\Debug\net6.0\SCICT.NLP.Utility.WordGenerator.AssemblyInfo.cs
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.WordGenerator\obj\Debug\net6.0\SCICT.NLP.Utility.WordGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.WordGenerator\obj\Debug\net6.0\SCICT.NLP.Utility.WordGenerator.csproj.CopyComplete
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.WordGenerator\obj\Debug\net6.0\SCICT.NLP.Utility.WordGenerator.dll
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.WordGenerator\obj\Debug\net6.0\refint\SCICT.NLP.Utility.WordGenerator.dll
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.WordGenerator\obj\Debug\net6.0\SCICT.NLP.Utility.WordGenerator.pdb
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.WordGenerator\obj\Debug\net6.0\ref\SCICT.NLP.Utility.WordGenerator.dll

@@ -1,0 +1,738 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\Test\\Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Morphology.Inflection.Conjugation\\SCICT.NLP.Morphology.Inflection.Conjugation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Morphology.Inflection.Conjugation\\SCICT.NLP.Morphology.Inflection.Conjugation.csproj",
+        "projectName": "SCICT.NLP.Morphology.Inflection.Conjugation",
+        "projectPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Morphology.Inflection.Conjugation\\SCICT.NLP.Morphology.Inflection.Conjugation.csproj",
+        "packagesPath": "C:\\Users\\Eqbal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Morphology.Inflection.Conjugation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Eqbal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Morphology.Inflection\\SCICT.NLP.Morphology.Inflection.csproj": {
+                "projectPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Morphology.Inflection\\SCICT.NLP.Morphology.Inflection.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Morphology.Inflection\\SCICT.NLP.Morphology.Inflection.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Morphology.Inflection\\SCICT.NLP.Morphology.Inflection.csproj",
+        "projectName": "SCICT.NLP.Morphology.Inflection",
+        "projectPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Morphology.Inflection\\SCICT.NLP.Morphology.Inflection.csproj",
+        "packagesPath": "C:\\Users\\Eqbal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Morphology.Inflection\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Eqbal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT\\SCICT.csproj": {
+                "projectPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT\\SCICT.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.TextProofing.Punctuation\\SCICT.NLP.TextProofing.Punctuation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.TextProofing.Punctuation\\SCICT.NLP.TextProofing.Punctuation.csproj",
+        "projectName": "SCICT.NLP.TextProofing.Punctuation",
+        "projectPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.TextProofing.Punctuation\\SCICT.NLP.TextProofing.Punctuation.csproj",
+        "packagesPath": "C:\\Users\\Eqbal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.TextProofing.Punctuation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Eqbal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.TextProofing.SpellChecker\\SCICT.NLP.TextProofing.SpellChecker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.TextProofing.SpellChecker\\SCICT.NLP.TextProofing.SpellChecker.csproj",
+        "projectName": "SCICT.NLP.TextProofing.SpellChecker",
+        "projectPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.TextProofing.SpellChecker\\SCICT.NLP.TextProofing.SpellChecker.csproj",
+        "packagesPath": "C:\\Users\\Eqbal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.TextProofing.SpellChecker\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Eqbal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Morphology.Inflection.Conjugation\\SCICT.NLP.Morphology.Inflection.Conjugation.csproj": {
+                "projectPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Morphology.Inflection.Conjugation\\SCICT.NLP.Morphology.Inflection.Conjugation.csproj"
+              },
+              "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Morphology.Inflection\\SCICT.NLP.Morphology.Inflection.csproj": {
+                "projectPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Morphology.Inflection\\SCICT.NLP.Morphology.Inflection.csproj"
+              },
+              "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Utility.StringDistance\\SCICT.NLP.Utility.StringDistance.csproj": {
+                "projectPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Utility.StringDistance\\SCICT.NLP.Utility.StringDistance.csproj"
+              },
+              "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Utility.WordContainer\\SCICT.NLP.Utility.WordContainer.csproj": {
+                "projectPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Utility.WordContainer\\SCICT.NLP.Utility.WordContainer.csproj"
+              },
+              "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Utility.WordGenerator\\SCICT.NLP.Utility.WordGenerator.csproj": {
+                "projectPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Utility.WordGenerator\\SCICT.NLP.Utility.WordGenerator.csproj"
+              },
+              "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT\\SCICT.csproj": {
+                "projectPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT\\SCICT.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Utility.PinglishConverter\\SCICT.NLP.Utility.PinglishConverter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Utility.PinglishConverter\\SCICT.NLP.Utility.PinglishConverter.csproj",
+        "projectName": "SCICT.NLP.Utility.PinglishConverter",
+        "projectPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Utility.PinglishConverter\\SCICT.NLP.Utility.PinglishConverter.csproj",
+        "packagesPath": "C:\\Users\\Eqbal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Utility.PinglishConverter\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Eqbal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.TextProofing.SpellChecker\\SCICT.NLP.TextProofing.SpellChecker.csproj": {
+                "projectPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.TextProofing.SpellChecker\\SCICT.NLP.TextProofing.SpellChecker.csproj"
+              },
+              "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT\\SCICT.csproj": {
+                "projectPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT\\SCICT.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Utility.StringDistance\\SCICT.NLP.Utility.StringDistance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Utility.StringDistance\\SCICT.NLP.Utility.StringDistance.csproj",
+        "projectName": "SCICT.NLP.Utility.StringDistance",
+        "projectPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Utility.StringDistance\\SCICT.NLP.Utility.StringDistance.csproj",
+        "packagesPath": "C:\\Users\\Eqbal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Utility.StringDistance\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Eqbal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT\\SCICT.csproj": {
+                "projectPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT\\SCICT.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Utility.WordContainer\\SCICT.NLP.Utility.WordContainer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Utility.WordContainer\\SCICT.NLP.Utility.WordContainer.csproj",
+        "projectName": "SCICT.NLP.Utility.WordContainer",
+        "projectPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Utility.WordContainer\\SCICT.NLP.Utility.WordContainer.csproj",
+        "packagesPath": "C:\\Users\\Eqbal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Utility.WordContainer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Eqbal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT\\SCICT.csproj": {
+                "projectPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT\\SCICT.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Utility.WordGenerator\\SCICT.NLP.Utility.WordGenerator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Utility.WordGenerator\\SCICT.NLP.Utility.WordGenerator.csproj",
+        "projectName": "SCICT.NLP.Utility.WordGenerator",
+        "projectPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Utility.WordGenerator\\SCICT.NLP.Utility.WordGenerator.csproj",
+        "packagesPath": "C:\\Users\\Eqbal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Utility.WordGenerator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Eqbal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT\\SCICT.csproj": {
+                "projectPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT\\SCICT.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.Utility.SpellChecker\\SCICT.Utility.SpellChecker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.Utility.SpellChecker\\SCICT.Utility.SpellChecker.csproj",
+        "projectName": "SCICT.Utility.SpellChecker",
+        "projectPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.Utility.SpellChecker\\SCICT.Utility.SpellChecker.csproj",
+        "packagesPath": "C:\\Users\\Eqbal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.Utility.SpellChecker\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Eqbal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT\\SCICT.csproj": {
+                "projectPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT\\SCICT.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.VirastyarInlineVerifiers\\SCICT.VirastyarInlineVerifiers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.VirastyarInlineVerifiers\\SCICT.VirastyarInlineVerifiers.csproj",
+        "projectName": "SCICT.VirastyarInlineVerifiers",
+        "projectPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.VirastyarInlineVerifiers\\SCICT.VirastyarInlineVerifiers.csproj",
+        "packagesPath": "C:\\Users\\Eqbal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.VirastyarInlineVerifiers\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Eqbal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.TextProofing.Punctuation\\SCICT.NLP.TextProofing.Punctuation.csproj": {
+                "projectPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.TextProofing.Punctuation\\SCICT.NLP.TextProofing.Punctuation.csproj"
+              },
+              "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.TextProofing.SpellChecker\\SCICT.NLP.TextProofing.SpellChecker.csproj": {
+                "projectPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.TextProofing.SpellChecker\\SCICT.NLP.TextProofing.SpellChecker.csproj"
+              },
+              "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Utility.PinglishConverter\\SCICT.NLP.Utility.PinglishConverter.csproj": {
+                "projectPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Utility.PinglishConverter\\SCICT.NLP.Utility.PinglishConverter.csproj"
+              },
+              "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.Utility.SpellChecker\\SCICT.Utility.SpellChecker.csproj": {
+                "projectPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.Utility.SpellChecker\\SCICT.Utility.SpellChecker.csproj"
+              },
+              "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT\\SCICT.csproj": {
+                "projectPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT\\SCICT.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT\\SCICT.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT\\SCICT.csproj",
+        "projectName": "SCICT",
+        "projectPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT\\SCICT.csproj",
+        "packagesPath": "C:\\Users\\Eqbal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Eqbal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\Test\\Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\Test\\Test.csproj",
+        "projectName": "Test",
+        "projectPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\Test\\Test.csproj",
+        "packagesPath": "C:\\Users\\Eqbal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Eqbal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.VirastyarInlineVerifiers\\SCICT.VirastyarInlineVerifiers.csproj": {
+                "projectPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.VirastyarInlineVerifiers\\SCICT.VirastyarInlineVerifiers.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

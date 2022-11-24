@@ -1,0 +1,160 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SCICT.VirastyarInlineVerifiers/1.0.0": {
+        "dependencies": {
+          "SCICT": "1.0.0",
+          "SCICT.NLP.TextProofing.Punctuation": "1.0.0",
+          "SCICT.NLP.TextProofing.SpellChecker": "1.0.0",
+          "SCICT.NLP.Utility.PinglishConverter": "1.0.0",
+          "SCICT.Utility.SpellChecker": "1.0.0"
+        },
+        "runtime": {
+          "SCICT.VirastyarInlineVerifiers.dll": {}
+        }
+      },
+      "SCICT/1.0.0": {
+        "runtime": {
+          "SCICT.dll": {}
+        }
+      },
+      "SCICT.NLP.Morphology.Inflection/1.0.0": {
+        "dependencies": {
+          "SCICT": "1.0.0"
+        },
+        "runtime": {
+          "SCICT.NLP.Morphology.Inflection.dll": {}
+        }
+      },
+      "SCICT.NLP.Morphology.Inflection.Conjugation/1.0.0": {
+        "dependencies": {
+          "SCICT.NLP.Morphology.Inflection": "1.0.0"
+        },
+        "runtime": {
+          "SCICT.NLP.Morphology.Inflection.Conjugation.dll": {}
+        }
+      },
+      "SCICT.NLP.TextProofing.Punctuation/1.0.0": {
+        "runtime": {
+          "SCICT.NLP.TextProofing.Punctuation.dll": {}
+        }
+      },
+      "SCICT.NLP.TextProofing.SpellChecker/1.0.0": {
+        "dependencies": {
+          "SCICT": "1.0.0",
+          "SCICT.NLP.Morphology.Inflection": "1.0.0",
+          "SCICT.NLP.Morphology.Inflection.Conjugation": "1.0.0",
+          "SCICT.NLP.Utility.StringDistance": "1.0.0",
+          "SCICT.NLP.Utility.WordContainer": "1.0.0",
+          "SCICT.NLP.Utility.WordGenerator": "1.0.0"
+        },
+        "runtime": {
+          "SCICT.NLP.TextProofing.SpellChecker.dll": {}
+        }
+      },
+      "SCICT.NLP.Utility.PinglishConverter/1.0.0": {
+        "dependencies": {
+          "SCICT": "1.0.0",
+          "SCICT.NLP.TextProofing.SpellChecker": "1.0.0"
+        },
+        "runtime": {
+          "SCICT.NLP.Utility.PinglishConverter.dll": {}
+        }
+      },
+      "SCICT.NLP.Utility.StringDistance/1.0.0": {
+        "dependencies": {
+          "SCICT": "1.0.0"
+        },
+        "runtime": {
+          "SCICT.NLP.Utility.StringDistance.dll": {}
+        }
+      },
+      "SCICT.NLP.Utility.WordContainer/1.0.0": {
+        "dependencies": {
+          "SCICT": "1.0.0"
+        },
+        "runtime": {
+          "SCICT.NLP.Utility.WordContainer.dll": {}
+        }
+      },
+      "SCICT.NLP.Utility.WordGenerator/1.0.0": {
+        "dependencies": {
+          "SCICT": "1.0.0"
+        },
+        "runtime": {
+          "SCICT.NLP.Utility.WordGenerator.dll": {}
+        }
+      },
+      "SCICT.Utility.SpellChecker/1.0.0": {
+        "dependencies": {
+          "SCICT": "1.0.0"
+        },
+        "runtime": {
+          "SCICT.Utility.SpellChecker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SCICT.VirastyarInlineVerifiers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SCICT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SCICT.NLP.Morphology.Inflection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SCICT.NLP.Morphology.Inflection.Conjugation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SCICT.NLP.TextProofing.Punctuation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SCICT.NLP.TextProofing.SpellChecker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SCICT.NLP.Utility.PinglishConverter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SCICT.NLP.Utility.StringDistance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SCICT.NLP.Utility.WordContainer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SCICT.NLP.Utility.WordGenerator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SCICT.Utility.SpellChecker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

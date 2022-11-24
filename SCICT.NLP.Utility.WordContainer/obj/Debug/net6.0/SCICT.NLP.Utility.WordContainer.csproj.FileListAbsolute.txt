@@ -1,0 +1,15 @@
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.WordContainer\bin\Debug\net6.0\SCICT.NLP.Utility.WordContainer.deps.json
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.WordContainer\bin\Debug\net6.0\SCICT.NLP.Utility.WordContainer.dll
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.WordContainer\bin\Debug\net6.0\SCICT.NLP.Utility.WordContainer.pdb
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.WordContainer\bin\Debug\net6.0\SCICT.dll
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.WordContainer\bin\Debug\net6.0\SCICT.pdb
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.WordContainer\obj\Debug\net6.0\SCICT.NLP.Utility.WordContainer.csproj.AssemblyReference.cache
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.WordContainer\obj\Debug\net6.0\SCICT.NLP.Utility.WordContainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.WordContainer\obj\Debug\net6.0\SCICT.NLP.Utility.WordContainer.AssemblyInfoInputs.cache
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.WordContainer\obj\Debug\net6.0\SCICT.NLP.Utility.WordContainer.AssemblyInfo.cs
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.WordContainer\obj\Debug\net6.0\SCICT.NLP.Utility.WordContainer.csproj.CoreCompileInputs.cache
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.WordContainer\obj\Debug\net6.0\SCICT.NLP.Utility.WordContainer.csproj.CopyComplete
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.WordContainer\obj\Debug\net6.0\SCICT.NLP.Utility.WordContainer.dll
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.WordContainer\obj\Debug\net6.0\refint\SCICT.NLP.Utility.WordContainer.dll
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.WordContainer\obj\Debug\net6.0\SCICT.NLP.Utility.WordContainer.pdb
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.WordContainer\obj\Debug\net6.0\ref\SCICT.NLP.Utility.WordContainer.dll

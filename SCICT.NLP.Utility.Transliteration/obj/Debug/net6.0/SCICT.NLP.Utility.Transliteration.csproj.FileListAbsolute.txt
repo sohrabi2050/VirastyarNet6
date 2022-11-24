@@ -1,0 +1,17 @@
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.Transliteration\bin\Debug\net6.0\SCICT.NLP.Utility.Transliteration.deps.json
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.Transliteration\bin\Debug\net6.0\SCICT.NLP.Utility.Transliteration.dll
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.Transliteration\bin\Debug\net6.0\SCICT.NLP.Utility.Transliteration.pdb
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.Transliteration\bin\Debug\net6.0\SCICT.dll
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.Transliteration\bin\Debug\net6.0\SCICT.NLP.Morphology.Inflection.dll
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.Transliteration\bin\Debug\net6.0\SCICT.NLP.Morphology.Inflection.pdb
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.Transliteration\bin\Debug\net6.0\SCICT.pdb
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.Transliteration\obj\Debug\net6.0\SCICT.NLP.Utility.Transliteration.csproj.AssemblyReference.cache
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.Transliteration\obj\Debug\net6.0\SCICT.NLP.Utility.Transliteration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.Transliteration\obj\Debug\net6.0\SCICT.NLP.Utility.Transliteration.AssemblyInfoInputs.cache
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.Transliteration\obj\Debug\net6.0\SCICT.NLP.Utility.Transliteration.AssemblyInfo.cs
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.Transliteration\obj\Debug\net6.0\SCICT.NLP.Utility.Transliteration.csproj.CoreCompileInputs.cache
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.Transliteration\obj\Debug\net6.0\SCICT.NLP.Utility.Transliteration.csproj.CopyComplete
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.Transliteration\obj\Debug\net6.0\SCICT.NLP.Utility.Transliteration.dll
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.Transliteration\obj\Debug\net6.0\refint\SCICT.NLP.Utility.Transliteration.dll
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.Transliteration\obj\Debug\net6.0\SCICT.NLP.Utility.Transliteration.pdb
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.Transliteration\obj\Debug\net6.0\ref\SCICT.NLP.Utility.Transliteration.dll

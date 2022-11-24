@@ -1,0 +1,131 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "SCICT/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/SCICT.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SCICT.dll": {}
+        }
+      },
+      "SCICT.NLP.Morphology.Inflection/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "SCICT": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SCICT.NLP.Morphology.Inflection.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SCICT.NLP.Morphology.Inflection.dll": {}
+        }
+      },
+      "SCICT.NLP.Utility.WordContainer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "SCICT": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SCICT.NLP.Utility.WordContainer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SCICT.NLP.Utility.WordContainer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SCICT/1.0.0": {
+      "type": "project",
+      "path": "../SCICT/SCICT.csproj",
+      "msbuildProject": "../SCICT/SCICT.csproj"
+    },
+    "SCICT.NLP.Morphology.Inflection/1.0.0": {
+      "type": "project",
+      "path": "../SCICT.NLP.Morphology.Inflection/SCICT.NLP.Morphology.Inflection.csproj",
+      "msbuildProject": "../SCICT.NLP.Morphology.Inflection/SCICT.NLP.Morphology.Inflection.csproj"
+    },
+    "SCICT.NLP.Utility.WordContainer/1.0.0": {
+      "type": "project",
+      "path": "../SCICT.NLP.Utility.WordContainer/SCICT.NLP.Utility.WordContainer.csproj",
+      "msbuildProject": "../SCICT.NLP.Utility.WordContainer/SCICT.NLP.Utility.WordContainer.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "SCICT.NLP.Morphology.Inflection >= 1.0.0",
+      "SCICT.NLP.Utility.WordContainer >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Eqbal\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Utility.LanguageModel\\SCICT.NLP.Utility.LanguageModel.csproj",
+      "projectName": "SCICT.NLP.Utility.LanguageModel",
+      "projectPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Utility.LanguageModel\\SCICT.NLP.Utility.LanguageModel.csproj",
+      "packagesPath": "C:\\Users\\Eqbal\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Utility.LanguageModel\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Eqbal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Morphology.Inflection\\SCICT.NLP.Morphology.Inflection.csproj": {
+              "projectPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Morphology.Inflection\\SCICT.NLP.Morphology.Inflection.csproj"
+            },
+            "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Utility.WordContainer\\SCICT.NLP.Utility.WordContainer.csproj": {
+              "projectPath": "C:\\Users\\Eqbal\\source\\repos\\VirastyarLibs\\SCICT.NLP.Utility.WordContainer\\SCICT.NLP.Utility.WordContainer.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

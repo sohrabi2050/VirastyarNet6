@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SCICT.NLP.Morphology.Inflection.Conjugation\SCICT.NLP.Morphology.Inflection.Conjugation.csproj" />
+    <ProjectReference Include="..\SCICT.NLP.Morphology.Inflection\SCICT.NLP.Morphology.Inflection.csproj" />
+    <ProjectReference Include="..\SCICT.NLP.Utility.StringDistance\SCICT.NLP.Utility.StringDistance.csproj" />
+    <ProjectReference Include="..\SCICT.NLP.Utility.WordContainer\SCICT.NLP.Utility.WordContainer.csproj" />
+    <ProjectReference Include="..\SCICT.NLP.Utility.WordGenerator\SCICT.NLP.Utility.WordGenerator.csproj" />
+    <ProjectReference Include="..\SCICT\SCICT.csproj" />
+  </ItemGroup>
+
+</Project>

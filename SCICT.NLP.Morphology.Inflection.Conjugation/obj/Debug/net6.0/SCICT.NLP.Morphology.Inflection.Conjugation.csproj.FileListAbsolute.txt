@@ -1,0 +1,17 @@
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Morphology.Inflection.Conjugation\bin\Debug\net6.0\SCICT.NLP.Morphology.Inflection.Conjugation.deps.json
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Morphology.Inflection.Conjugation\bin\Debug\net6.0\SCICT.NLP.Morphology.Inflection.Conjugation.dll
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Morphology.Inflection.Conjugation\bin\Debug\net6.0\SCICT.NLP.Morphology.Inflection.Conjugation.pdb
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Morphology.Inflection.Conjugation\bin\Debug\net6.0\SCICT.dll
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Morphology.Inflection.Conjugation\bin\Debug\net6.0\SCICT.NLP.Morphology.Inflection.dll
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Morphology.Inflection.Conjugation\bin\Debug\net6.0\SCICT.NLP.Morphology.Inflection.pdb
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Morphology.Inflection.Conjugation\bin\Debug\net6.0\SCICT.pdb
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Morphology.Inflection.Conjugation\obj\Debug\net6.0\SCICT.NLP.Morphology.Inflection.Conjugation.csproj.AssemblyReference.cache
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Morphology.Inflection.Conjugation\obj\Debug\net6.0\SCICT.NLP.Morphology.Inflection.Conjugation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Morphology.Inflection.Conjugation\obj\Debug\net6.0\SCICT.NLP.Morphology.Inflection.Conjugation.AssemblyInfoInputs.cache
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Morphology.Inflection.Conjugation\obj\Debug\net6.0\SCICT.NLP.Morphology.Inflection.Conjugation.AssemblyInfo.cs
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Morphology.Inflection.Conjugation\obj\Debug\net6.0\SCICT.NLP.Morphology.Inflection.Conjugation.csproj.CoreCompileInputs.cache
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Morphology.Inflection.Conjugation\obj\Debug\net6.0\SCICT.NLP.Morphology.Inflection.Conjugation.csproj.CopyComplete
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Morphology.Inflection.Conjugation\obj\Debug\net6.0\SCICT.NLP.Morphology.Inflection.Conjugation.dll
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Morphology.Inflection.Conjugation\obj\Debug\net6.0\refint\SCICT.NLP.Morphology.Inflection.Conjugation.dll
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Morphology.Inflection.Conjugation\obj\Debug\net6.0\SCICT.NLP.Morphology.Inflection.Conjugation.pdb
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Morphology.Inflection.Conjugation\obj\Debug\net6.0\ref\SCICT.NLP.Morphology.Inflection.Conjugation.dll

@@ -1,0 +1,15 @@
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.StringDistance\bin\Debug\net6.0\SCICT.NLP.Utility.StringDistance.deps.json
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.StringDistance\bin\Debug\net6.0\SCICT.NLP.Utility.StringDistance.dll
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.StringDistance\bin\Debug\net6.0\SCICT.NLP.Utility.StringDistance.pdb
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.StringDistance\bin\Debug\net6.0\SCICT.dll
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.StringDistance\bin\Debug\net6.0\SCICT.pdb
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.StringDistance\obj\Debug\net6.0\SCICT.NLP.Utility.StringDistance.csproj.AssemblyReference.cache
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.StringDistance\obj\Debug\net6.0\SCICT.NLP.Utility.StringDistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.StringDistance\obj\Debug\net6.0\SCICT.NLP.Utility.StringDistance.AssemblyInfoInputs.cache
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.StringDistance\obj\Debug\net6.0\SCICT.NLP.Utility.StringDistance.AssemblyInfo.cs
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.StringDistance\obj\Debug\net6.0\SCICT.NLP.Utility.StringDistance.csproj.CoreCompileInputs.cache
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.StringDistance\obj\Debug\net6.0\SCICT.NLP.Utility.StringDistance.csproj.CopyComplete
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.StringDistance\obj\Debug\net6.0\SCICT.NLP.Utility.StringDistance.dll
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.StringDistance\obj\Debug\net6.0\refint\SCICT.NLP.Utility.StringDistance.dll
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.StringDistance\obj\Debug\net6.0\SCICT.NLP.Utility.StringDistance.pdb
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Utility.StringDistance\obj\Debug\net6.0\ref\SCICT.NLP.Utility.StringDistance.dll

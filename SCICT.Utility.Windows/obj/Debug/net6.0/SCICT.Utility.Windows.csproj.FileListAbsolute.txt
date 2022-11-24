@@ -1,0 +1,12 @@
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.Utility.Windows\bin\Debug\net6.0\SCICT.Utility.Windows.deps.json
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.Utility.Windows\bin\Debug\net6.0\SCICT.Utility.Windows.dll
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.Utility.Windows\bin\Debug\net6.0\SCICT.Utility.Windows.pdb
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.Utility.Windows\obj\Debug\net6.0\SCICT.Utility.Windows.csproj.AssemblyReference.cache
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.Utility.Windows\obj\Debug\net6.0\SCICT.Utility.Windows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.Utility.Windows\obj\Debug\net6.0\SCICT.Utility.Windows.AssemblyInfoInputs.cache
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.Utility.Windows\obj\Debug\net6.0\SCICT.Utility.Windows.AssemblyInfo.cs
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.Utility.Windows\obj\Debug\net6.0\SCICT.Utility.Windows.csproj.CoreCompileInputs.cache
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.Utility.Windows\obj\Debug\net6.0\SCICT.Utility.Windows.dll
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.Utility.Windows\obj\Debug\net6.0\refint\SCICT.Utility.Windows.dll
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.Utility.Windows\obj\Debug\net6.0\SCICT.Utility.Windows.pdb
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.Utility.Windows\obj\Debug\net6.0\ref\SCICT.Utility.Windows.dll

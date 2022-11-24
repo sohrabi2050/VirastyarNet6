@@ -1,0 +1,15 @@
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Morphology.Inflection\bin\Debug\net6.0\SCICT.NLP.Morphology.Inflection.deps.json
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Morphology.Inflection\bin\Debug\net6.0\SCICT.NLP.Morphology.Inflection.dll
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Morphology.Inflection\bin\Debug\net6.0\SCICT.NLP.Morphology.Inflection.pdb
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Morphology.Inflection\bin\Debug\net6.0\SCICT.dll
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Morphology.Inflection\bin\Debug\net6.0\SCICT.pdb
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Morphology.Inflection\obj\Debug\net6.0\SCICT.NLP.Morphology.Inflection.csproj.AssemblyReference.cache
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Morphology.Inflection\obj\Debug\net6.0\SCICT.NLP.Morphology.Inflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Morphology.Inflection\obj\Debug\net6.0\SCICT.NLP.Morphology.Inflection.AssemblyInfoInputs.cache
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Morphology.Inflection\obj\Debug\net6.0\SCICT.NLP.Morphology.Inflection.AssemblyInfo.cs
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Morphology.Inflection\obj\Debug\net6.0\SCICT.NLP.Morphology.Inflection.csproj.CoreCompileInputs.cache
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Morphology.Inflection\obj\Debug\net6.0\SCICT.NLP.Morphology.Inflection.csproj.CopyComplete
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Morphology.Inflection\obj\Debug\net6.0\SCICT.NLP.Morphology.Inflection.dll
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Morphology.Inflection\obj\Debug\net6.0\refint\SCICT.NLP.Morphology.Inflection.dll
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Morphology.Inflection\obj\Debug\net6.0\SCICT.NLP.Morphology.Inflection.pdb
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.Morphology.Inflection\obj\Debug\net6.0\ref\SCICT.NLP.Morphology.Inflection.dll

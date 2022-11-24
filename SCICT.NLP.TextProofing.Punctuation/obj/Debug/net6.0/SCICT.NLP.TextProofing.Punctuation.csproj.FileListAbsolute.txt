@@ -1,0 +1,12 @@
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.TextProofing.Punctuation\bin\Debug\net6.0\SCICT.NLP.TextProofing.Punctuation.deps.json
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.TextProofing.Punctuation\bin\Debug\net6.0\SCICT.NLP.TextProofing.Punctuation.dll
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.TextProofing.Punctuation\bin\Debug\net6.0\SCICT.NLP.TextProofing.Punctuation.pdb
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.TextProofing.Punctuation\obj\Debug\net6.0\SCICT.NLP.TextProofing.Punctuation.csproj.AssemblyReference.cache
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.TextProofing.Punctuation\obj\Debug\net6.0\SCICT.NLP.TextProofing.Punctuation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.TextProofing.Punctuation\obj\Debug\net6.0\SCICT.NLP.TextProofing.Punctuation.AssemblyInfoInputs.cache
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.TextProofing.Punctuation\obj\Debug\net6.0\SCICT.NLP.TextProofing.Punctuation.AssemblyInfo.cs
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.TextProofing.Punctuation\obj\Debug\net6.0\SCICT.NLP.TextProofing.Punctuation.csproj.CoreCompileInputs.cache
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.TextProofing.Punctuation\obj\Debug\net6.0\SCICT.NLP.TextProofing.Punctuation.dll
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.TextProofing.Punctuation\obj\Debug\net6.0\refint\SCICT.NLP.TextProofing.Punctuation.dll
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.TextProofing.Punctuation\obj\Debug\net6.0\SCICT.NLP.TextProofing.Punctuation.pdb
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.NLP.TextProofing.Punctuation\obj\Debug\net6.0\ref\SCICT.NLP.TextProofing.Punctuation.dll

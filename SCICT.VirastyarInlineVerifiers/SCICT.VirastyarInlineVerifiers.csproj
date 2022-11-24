@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SCICT.NLP.TextProofing.Punctuation\SCICT.NLP.TextProofing.Punctuation.csproj" />
+    <ProjectReference Include="..\SCICT.NLP.TextProofing.SpellChecker\SCICT.NLP.TextProofing.SpellChecker.csproj" />
+    <ProjectReference Include="..\SCICT.NLP.Utility.PinglishConverter\SCICT.NLP.Utility.PinglishConverter.csproj" />
+    <ProjectReference Include="..\SCICT.Utility.SpellChecker\SCICT.Utility.SpellChecker.csproj" />
+    <ProjectReference Include="..\SCICT\SCICT.csproj" />
+  </ItemGroup>
+
+</Project>

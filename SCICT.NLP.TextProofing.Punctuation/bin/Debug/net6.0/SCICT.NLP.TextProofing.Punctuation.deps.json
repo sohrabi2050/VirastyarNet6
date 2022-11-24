@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SCICT.NLP.TextProofing.Punctuation/1.0.0": {
+        "runtime": {
+          "SCICT.NLP.TextProofing.Punctuation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SCICT.NLP.TextProofing.Punctuation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

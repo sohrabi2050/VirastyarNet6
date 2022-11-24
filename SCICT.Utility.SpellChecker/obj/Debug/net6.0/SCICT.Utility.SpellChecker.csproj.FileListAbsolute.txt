@@ -1,0 +1,15 @@
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.Utility.SpellChecker\bin\Debug\net6.0\SCICT.Utility.SpellChecker.deps.json
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.Utility.SpellChecker\bin\Debug\net6.0\SCICT.Utility.SpellChecker.dll
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.Utility.SpellChecker\bin\Debug\net6.0\SCICT.Utility.SpellChecker.pdb
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.Utility.SpellChecker\bin\Debug\net6.0\SCICT.dll
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.Utility.SpellChecker\bin\Debug\net6.0\SCICT.pdb
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.Utility.SpellChecker\obj\Debug\net6.0\SCICT.Utility.SpellChecker.csproj.AssemblyReference.cache
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.Utility.SpellChecker\obj\Debug\net6.0\SCICT.Utility.SpellChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.Utility.SpellChecker\obj\Debug\net6.0\SCICT.Utility.SpellChecker.AssemblyInfoInputs.cache
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.Utility.SpellChecker\obj\Debug\net6.0\SCICT.Utility.SpellChecker.AssemblyInfo.cs
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.Utility.SpellChecker\obj\Debug\net6.0\SCICT.Utility.SpellChecker.csproj.CoreCompileInputs.cache
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.Utility.SpellChecker\obj\Debug\net6.0\SCICT.Utility.SpellChecker.csproj.CopyComplete
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.Utility.SpellChecker\obj\Debug\net6.0\SCICT.Utility.SpellChecker.dll
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.Utility.SpellChecker\obj\Debug\net6.0\refint\SCICT.Utility.SpellChecker.dll
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.Utility.SpellChecker\obj\Debug\net6.0\SCICT.Utility.SpellChecker.pdb
+C:\Users\Eqbal\source\repos\VirastyarLibs\SCICT.Utility.SpellChecker\obj\Debug\net6.0\ref\SCICT.Utility.SpellChecker.dll
