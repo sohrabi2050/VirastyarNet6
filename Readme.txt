@@ -1,5 +1,5 @@
-Virastyar 1.3.1 
-Copyright © 2011 SCICT 
+Virastyar 2 (.Net6 Based Version)
+Copyright Â© 2011 SCICT 
 
 ==========================
 Virastyar is free software: you can redistribute it and/or modify
@@ -18,7 +18,7 @@ along with Virastyar.  If not, see <http://www.gnu.org/licenses/>.
 
 WHAT IS VIRASTYAR?
 ==========================
-Virastyar is an open-source Microsoft® Office Word Add-in written in C#.
+Virastyar is an open-source MicrosoftÂ® Office Word Add-in written in C#.
 The following functionalities are provided by Virastyar:
 	- Persian Spell Checking
 	- Pinglish Conversion
@@ -35,9 +35,9 @@ More information is available at http://www.virastyar.ir/
 BUILDING VIRASTYAR
 ==========================
 You need the following to successfully build and run Virastyar from sources:
-	- Microsoft® Visual Studio 2008 
-	- Microsoft® Visual Studio Tools for Office
-	- Microsoft® Office 2003 or Later
+	- MicrosoftÂ® Visual Studio 2008 
+	- MicrosoftÂ® Visual Studio Tools for Office
+	- MicrosoftÂ® Office 2003 or Later
 	- PowerShell
 	
 There is an automated build script provided. To use it, run "buildenv.bat" and 
